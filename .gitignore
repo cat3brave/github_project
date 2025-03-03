@@ -1,0 +1,12 @@
+# Windowsの不要なファイルを無視
+*.lnk
+*.ini
+Thumbs.db
+Desktop.ini
+AppData/
+Downloads/
+Documents/
+Music/
+Videos/
+NTUSER.DAT
+OneDrive/
